@@ -1,3 +1,5 @@
+# I forked this so it will be easyer for me to use it across my devices
+all credit gos to the origanal creator
 # Virtual-Gamepad
 Virtual Gamepad for RPG Paper maker
 
